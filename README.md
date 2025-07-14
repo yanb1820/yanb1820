@@ -7,9 +7,19 @@ I currently live in the USA 🇺🇸 (Eastern Standard Time 🕒) and I’m pass
 
 
 ## 🔭 I'm currently working on 
-This project fine-tunes DistilBERT on the GoEmotions dataset and maps the 28 original emotions to 6 Ekman emotions + neutral.
+### [Emotion Classification with DistilBERT (Ekman 7 Labels)](https://github.com/yanb1820/emotion_llm)
+
+- 🔗 Connects **Natural Language Processing (NLP)** with **Cognitive Science** by mapping emotions to Ekman’s basic emotion theory.
+- 🎯 Builds **explainable AI** applicable to:
+  - Chatbots
+  - Social media analysis
+  - Educational tools
+- 🧪 Fine-tunes **DistilBERT** on the **GoEmotions** dataset.
+- 🎭 Maps the 28 original GoEmotions labels to **6 Ekman emotions + neutral**.
 
 [![Emotion Classification](emotion.png)](https://huggingface.co/spaces/yanb1820/ekman-emotion-distilbert)
+
+🗨️ *Try me! Click the image above to run the demo on Hugging Face.*
 
 
 
