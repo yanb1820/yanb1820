@@ -4,7 +4,10 @@
 ## 🙋🏻 About Me
 
 I currently live in the USA 🇺🇸 (Eastern Standard Time 🕒) and I’m passionate about technology 🚀, coding 👨‍💻, and collaborating on innovative software, machine learning 🤖, and AI projects. I love connecting with the developer community 🌐👥. Outside of work and study, I enjoy playing games like Cyberpunk 🎮, exercising and lifting weights 🏋️, playing piano 🎹, and spending quality time with my family ❤️.
- 
+
+
+## 🛠️ Recent Project: 
+[![Emotion Classification](emotion.png)](https://huggingface.co/spaces/yanb1820/ekman-emotion-distilbert)
 
 
 
@@ -55,7 +58,5 @@ I currently live in the USA 🇺🇸 (Eastern Standard Time 🕒) and I’m pass
   <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib" height="25"/> 
 </p>
 
-## 🛠️ Recent Projects: 
-- 😃 Emotion Classification: Fine-tuned transformer models for emotion analysis and built interactive web apps for prediction and visualization.
-- 📱 Job Offer Comparison App: Designed Android applications to help users compare opportunities and make informed career decisions.
+
 
